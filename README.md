@@ -1,5 +1,5 @@
 # Ship battle
-A game about sinking ships. C# progect for our software engeneering course.
+A game about sinking ships. C# progect for our software engineering course.
 
 
 " Yar har, wind at your back, lads,
