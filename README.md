@@ -6,5 +6,5 @@ A game about sinking ships. C# progect for our software engineering course.
   Wherever you go!
   Blue sky above and blue ocean below, 
   You are a pirate!
-  You are a pirate! Ya gobshite! "
+  You are a pirate! Ya gobshite! 
 ```
