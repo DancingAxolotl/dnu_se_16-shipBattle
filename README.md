@@ -8,3 +8,4 @@ A game about sinking ships. C# progect for our software engeneering course.
   You are a pirate!
   
   You are a pirate! Ya gobshite! "
+
