@@ -1,2 +1,10 @@
-# dnu_se_16-shipBattle
-Battle the ships!
+# Ship battle
+A game about sinking ships. C# progect for our software engeneering course.
+
+
+" Yar har, wind at your back, lads,
+  Wherever you go! 
+  Blue sky above and blue ocean below, 
+  You are a pirate!
+  
+  You are a pirate! Ya gobshite! "
